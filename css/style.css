@@ -1,0 +1,51 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    text-align: center;
+}
+#foto {
+    background-color: #e6e6e6 ;
+}
+h1{
+    color: #005677;
+    background-color: #c4c4c4;
+}
+.tituloSeccion{
+    background-color: #c4c4c4;
+    color: #005677;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    margin-right: 5px;
+}
+
+.subTitulo{
+    font-weight: bold;
+    font-style: italic;
+    
+}
+
+.fechas {
+    font-weight: bold;
+}
+
+.textoMargen {
+    text-align: right;
+}
+
+.elementosPie{
+    
+    text-align: center;
+    color: #ffffff;
+    margin-top: 20px;
+    margin-right: 10px;
+    }
+
+    #tel {
+        display: inline-block;
+    }
+
+.pie {
+    background-color: #005677;
+    text-align: center;
+}
