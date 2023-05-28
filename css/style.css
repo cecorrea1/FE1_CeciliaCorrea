@@ -1,0 +1,76 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.encabezado1{
+    background-color: black;
+}
+.titulito{
+    font-size: 10px;
+    padding-top: 5px;
+    color: white;
+}
+.configuracion{
+    font-size: 10px;
+    color: white;
+}
+
+.encabezado2{
+    background-color:  #F0A83E;
+    color: white;
+}
+
+.subtitulo1{
+    text-align: center;
+}
+
+.plato{
+    background-image: url('../img/bowl-and-pet-daities-on-green-background\ 1.png');
+    width: 1025px;
+    height: 409px;
+}
+
+
+.textoPlato1 {
+    text-align: center;
+    line-height: 1.8;
+    display: block;
+    font-size: 16px;
+}
+.textoPlato2{
+    line-height: 1.8;
+    background-color: #f0a83e ;
+    color: white;
+    line-height: 18.75px;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+}
+
+.precio{
+    color: #F0A83E;
+}
+
+footer{
+    background-color: #3C2313 ;
+}
+
+.tituloPie {
+    color: white ;
+}
+
+.datosPie {
+    color:  #8A8787 ;
+}
+
+.derechos{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
